@@ -1,0 +1,8 @@
+#Nr;Menge;Einzelpreis;Bezeichnung
+4714;2;100.2;Riesenschultüte
+0815;10;2.33;Kaugummi
+9222;5;18.5;Maus
+4523;160;80;Monitor
+4521;90;12;Mouspad
+9040;0.5;90;Zuckerl
+8505;11;45;Tasche

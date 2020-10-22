@@ -1,0 +1,11 @@
+#Nr;Menge;Einzelpreis;Bezeichnung
+4711;2;100.20;Riesenschultüte
+1345;15;1.33;Stift
+3412;30;0.33;Zuckerl
+1111;4;10.05;Jacke
+1010;100;100.53;Schuhe
+1815;15;5.32;Spitzer
+2314;3;60.20;Schultasche
+1454;7;12.23;Taschentuecher
+1647;19;18.34;Hose
+0853;15;8.98;Handtuch
